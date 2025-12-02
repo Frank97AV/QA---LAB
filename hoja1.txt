@@ -1,2 +1,2 @@
-git hub: generando conflicto rama local
 
+git hub: generando conflicto rama local
